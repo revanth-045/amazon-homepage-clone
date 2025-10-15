@@ -13,15 +13,6 @@ It focuses on recreating Amazon’s **layout, navigation bar, product grid, and 
 
 ---
 
-## 📸 Preview  
-
-### 🖼️ Homepage  
-![Amazon Clone Screenshot 1](./Screenshot%202025-10-15%20at%2011.07.50 AM.png)
-
-### 🖼️ Product Section  
-![Amazon Clone Screenshot 2](./Screenshot%202025-10-15%20at%2011.08.10 AM.png)
-
----
 
 ## 🚀 How to View  
 1. Clone the repository:  
