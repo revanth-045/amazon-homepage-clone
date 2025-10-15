@@ -1,0 +1,4 @@
+- [x] Fix CSS errors (e.g., invalid margin "15pxj" to "15px", remove background-color: pink in nav-search)
+- [x] Add media query for screens <768px: Stack navbar elements vertically, adjust nav-search width, make shop boxes 45% width
+- [x] Add media query for screens <480px: Shop boxes full width (100%), reduce hero height to 250px, adjust font sizes
+- [x] Ensure flexbox usage for responsive layout
